@@ -3,6 +3,7 @@
 Backend & Platform Automation Engineer. Building resilient middleware, IaC, and containerized workflows.
 
 📄 <b>Resume:</b> <a href="https://resume.delpilar.net" target="_blank">Resume (PDF)</a>  
+💼 **LinkedIn:** [linkedin.com/in/jordan-del-pilar](https://linkedin.com/in/jordan-del-pilar)  
 📧 **Email:** jordan@delpilar.net  
 📍 **Location:** Lemoore, CA  
 
